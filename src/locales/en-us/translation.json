@@ -1,0 +1,125 @@
+{
+    "header" : {
+        "scorer" : "Scorer",
+        "timer" : "Countdown Timer",
+        "timer3" : "Countdown Timer(3 minutes)",
+        "resources" : {
+            "title" : "Other Resources",
+            "sub1_title" : "Chinese Rules",
+            "sub2_title" : "English Rules",
+            "sub3_title" : "Japanese rules"
+        }
+    },
+    "M00": {
+        "title":"Equipment Inspection",
+        "1":"Does the team's equipment all fit in one launch area and under 12 in. (305 mm)?"
+    },
+    "M01": {
+        "title" : "Innovation Project Model",
+        "1" : "Does the innovation project model have at least two white LEGO pieces, measure at least 4 studs in some dorection, and is at least partly in the hydrogen plant target area?",
+        "2" : "Made of at least two white LEGO® pieces.",
+        "3" : "Measures at least as long as 4 LEGO studs in some direction.",
+        "4" : "Is at least partly in the hydrogen plant target area."
+    },
+    "M02": {
+        "title" : "Oil Platform",
+        "1" : "Number of fuel units in the fuel truck:",
+        "2" : "If at least one fuel unit is in the fuel truck and the fuel truck is at least partly over the fueling station target:",
+        "ans1" : "0 (0 pts)",
+        "ans2" : "1 (5 pts)",
+        "ans3" : "2 (10 pts)",
+        "ans4" : "3 (15 pts)"
+
+    },
+    "M03": {
+        "title" : "Energy Storage",
+        "1" : "Number of energy units completely in the energy storage bin:",
+        "2" : "The energy unit is completely removed from the energy storage tray:",
+        "ans1" : "0 (0 pts)",
+        "ans2" : "1 (10 pts)",
+        "ans3" : "2 (20 pts)",
+        "ans4" : "3+ (30 pts)"
+    },
+    "M04": {
+        "title" : "Solar Farm",
+        "1" : "Number of energy units completely removed from their starting circles:",
+        "ans1" : "0 (0 pts)",
+        "ans2" : "1 (5 pts)",
+        "ans3" : "2 (10 pts)",
+        "ans4" : "3 (20 pts)"
+    },
+    "M05": {
+        "title" : "Smart Grid",
+        "1" : "Your field’s orange connector is completely raised:",
+        "2" : "Both team’s orange connectors are completely raised:"
+    },
+    "M06": {
+        "title" : "Hybrid Car",
+        "1" : "The hybrid car is no longer touching the ramp:",
+        "2" : "The hybrid unit is in the hybrid car:"
+
+    },
+    "M07": {
+        "title" : "Wind Turbine",
+        "1" : "Number of energy units no longer touching the wind turbine:"
+    },
+    "M08": {
+        "title" : "Watch Television",
+        "1" : "The television is completely raised:",
+        "2" : "There is an energy unit completely in the green television slot:"
+    },
+    "M09": {
+        "title" : "Dinosaur Toy",
+        "1" : "The dinosaur toy is completely in the left home area:",
+        "2" : "The dinosaur toy lid is completely closed with the following inside:",
+        "ans1" : "Nothing or Not Closed",
+        "ans2" : "Energy Unit",
+        "ans3" : "Rechargeable Battery"
+    },
+    "M10": {
+        "title" : "Power Plant",
+        "1" : "Number of energy units no longer touching the power plant:"
+    },
+    "M11": {
+        "title" : "Hydroelectric Dam",
+        "1" : "The energy unit is no longer touching the hydroelectric dam:"
+    },
+    "M12": {
+        "title" : "Water Reservoir",
+        "1" : "Number of looped water units completely in the water reservoir, touching the mat:",
+        "2" : "Number looped water units placed on a single red hook (max of 1 per hook):"
+    },
+    "M13": {
+        "title" : "POWER-TO-X",
+        "1" : "Number of energy units completely in the hydrogen plant target area:"
+    },
+    "M14": {
+        "title" : "Toy Factor",
+        "1" : "Number of energy units at least partly in the slot in the back of the toy factory (or in the red hopper):",
+        "2" : "The mini dinosaur toy has been released:"
+    },
+    "M15": {
+        "title" : "Rechargeable Battery",
+        "1" : "Number of energy units completely in the rechargeable battery target area:"
+    },
+    "M16": {
+        "title" : "Precission Tokens",
+        "1" : "Number of Precission tokens left on the field?"
+    },
+    "MGP": {
+        "title" : "Gracious Professionalism®",
+        "1" : "Gracious Professionalism® displayed at the robot game table:"
+    },
+    "total_score" : "Score：",
+    "btn" : {
+        "start" : "Start",
+        "pause" : "Pause",
+        "continue" : "Continue",
+        "yes" : "Yes",
+        "no" : "No",
+        "reset" : "Reset",
+        "send" : "Save",
+        "close" : "Close"
+    },
+    "timer_title" : "Times Up!"
+}
